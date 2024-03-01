@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/Chat.h
+iostream
+-
+vector
+-
+string
+-
+Message.h
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/Message.h
+User.h
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/User.h
+
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/Message.h
+iostream
+-
+string
+-
+
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/User.h
+iostream
+-
+cstring
+-
+
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/main.cpp
+iostream
+-
+Chat.h
+/home/q/Документы/ДОКУМЕНТЫ/DZ_16-main/Console_Chat/Console_Chat/Chat.h
+fstream
+-
+iterator
+-
+sstream
+-
+

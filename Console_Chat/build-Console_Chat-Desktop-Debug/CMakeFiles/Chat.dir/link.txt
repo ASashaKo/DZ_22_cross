@@ -1,0 +1,1 @@
+/usr/bin/g++  -DQT_QML_DEBUG -g   CMakeFiles/Chat.dir/main.cpp.o CMakeFiles/Chat.dir/Chat.cpp.o CMakeFiles/Chat.dir/Message.cpp.o CMakeFiles/Chat.dir/User.cpp.o  -o Chat 
